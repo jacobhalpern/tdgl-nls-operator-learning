@@ -1,2 +1,2 @@
-# tdgl-nls-operator-learning
-FNO vs CNN for conditioned complex-field dynamics, with verified simulation and physical diagnostics
+# Operator Learning Across Dissipative and Conservative Field Dynamics
+A conditioned Fourier Neural Operator and matched CNN trained to predict complex-field evolution from TDGL-like relaxation to nonlinear Schrödinger dynamics.
